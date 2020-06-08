@@ -7,7 +7,7 @@ This a a Vue storybook example using
 
 - [@storybook/addon-controls](https://www.npmjs.com/package/@storybook/addon-controls)
 
-#[Preview Deploy](https://storybook-vue-playground.netlify.app/)
+## [Preview Deploy](https://storybook-vue-playground.netlify.app/)
 
 ```bash
 npm run storybook
